@@ -1,0 +1,43 @@
+# Python stuff and Pycharm user files
+*.pyc
+.idea/
+*.iml
+*.csv
+*.log
+build/
+
+# R stuff
+.Rproj.user
+*.RData
+*.Rdata
+.Rhistory
+*.dat
+
+# keyfiles
+*.cer
+*.pem
+*.crt
+*.pfx
+
+
+*.egg-info
+
+*.stdout
+*.stderr
+*.time
+
+*.pdf
+*.zip
+
+# documentation
+
+apidoc/build
+
+dist/
+
+
+# Spyder project files
+.spyderproject
+
+# secret
+ecobici_api.py
